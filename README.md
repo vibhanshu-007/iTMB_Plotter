@@ -59,6 +59,9 @@ python itmb_plotter2.py --file itmb_final.tsv --batch BATCH.tsv --all
 ```
 - Outputs `batch_results_with_percentiles.tsv` as above.
 - Generates a plot for each patient in the batch.
+
+  <img width="3630" height="772" alt="itmb_Lung_Y9ZBH-F-D-CE-IN423-SJ379-S1_SJ379" src="https://github.com/user-attachments/assets/c3aceda8-5153-4317-9b94-2cae7c5e0964" />
+
 - All generated plots are automatically zipped into `itmb_plots_archive.zip` and the individual PNG files are deleted to save space.
 
 #### Example Batch File Format
